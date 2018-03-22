@@ -1,7 +1,7 @@
 package config
 
 import (
-	"context"
+	"golang.org/x/net/context"
 	"encoding/hex"
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/ethclient"
